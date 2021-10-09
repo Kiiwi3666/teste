@@ -7,7 +7,7 @@ __________
 __________
 
 server: Laboratório
-Invite: https://discord.com/off
+Invite: `https://discord.com/off`
 
 
 
